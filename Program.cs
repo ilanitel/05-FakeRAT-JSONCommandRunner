@@ -9,7 +9,7 @@ internal class Program
 
         //Full path to the JSON file containing commands
 
-        String path = "C:\\Users\\mimif\\source\\repos\\05-FakeRAT-JSONCommandRunner\\commands.json";
+        String path = "C:\\Users\\**\\source\\repos\\05-FakeRAT-JSONCommandRunner\\commands.json";
 
         // Check if the json  file exists
         if (!File.Exists(path))
