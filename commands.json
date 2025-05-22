@@ -1,0 +1,12 @@
+﻿{
+    "commands": [
+
+        "open_calc",
+        "print_time",
+        "write_log",
+        "invalid_command"
+
+
+    ]
+
+}

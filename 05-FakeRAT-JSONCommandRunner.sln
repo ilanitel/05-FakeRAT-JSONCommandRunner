@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-FakeRAT-JSONCommandRunner", "05-FakeRAT-JSONCommandRunner.csproj", "{B6E65A52-15F4-47D8-A450-F4FD6DF3D861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "base64FakeRat-JsonCommandRunner", "..\base64FakeRat-JsonCommandRunner\base64FakeRat-JsonCommandRunner.csproj", "{4DEC1021-A1C8-4A70-B168-15208FEE9BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E65A52-15F4-47D8-A450-F4FD6DF3D861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E65A52-15F4-47D8-A450-F4FD6DF3D861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E65A52-15F4-47D8-A450-F4FD6DF3D861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E65A52-15F4-47D8-A450-F4FD6DF3D861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEC1021-A1C8-4A70-B168-15208FEE9BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEC1021-A1C8-4A70-B168-15208FEE9BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEC1021-A1C8-4A70-B168-15208FEE9BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEC1021-A1C8-4A70-B168-15208FEE9BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
